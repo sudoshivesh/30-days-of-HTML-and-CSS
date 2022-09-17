@@ -1,4 +1,4 @@
-<h1>Neumorphism Login Form</h1>
+<h1 align="center">Neumorphism Login Form</h1>
 
 ![HTml](https://user-images.githubusercontent.com/78317220/190875634-98af84c6-6ab3-4772-9f04-3ec7d8637020.png)
 
